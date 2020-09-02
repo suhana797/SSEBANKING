@@ -1,0 +1,185 @@
+/* scrollbar color */
+::-webkit-scrollbar {
+    background-color: white;
+    width: 10px !important;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: #F49F1C;
+}
+
+::-webkit-scrollbar-button {
+    background-color: black;
+}
+
+
+
+
+
+/* slider section start */
+
+.carousel-caption {
+   margin-bottom: 11%;
+   margin-left: 7%;
+}
+.carousel-caption span{
+    color: white;
+}
+ .carousel-caption h2 {
+    font-size: 40px;
+    overflow: inherit;
+    display: block;
+    width: 800px;
+    text-align: left;
+    color:#F49F1C;
+    font-weight: bolder;
+} 
+
+.carousel-caption p {
+    text-align: left;
+    width: 500vw;
+    padding: 20px 0;
+    font-size: 15px;
+    color: white;
+  
+    
+}
+
+.carousel-caption button {
+    width: 200px;
+    height: 45px;
+    /* line-height: 45px; */
+    border: none;
+    outline: none;
+    background-color: #451B8C;
+    color: white;
+   margin-right:40%;
+  font-weight: bolder;
+
+ 
+}
+
+.carousel-caption button:hover {
+    background-color: #F49F1C;
+    color: black;
+    
+}
+
+/* slider section end */
+
+/* information */
+
+.card-title{
+    color: #451B8C;
+    text-align: center;
+    word-spacing: 1px;
+    font-weight: bolder;
+    font-size: 30px;
+}
+.card-text{
+    color: black; 
+    font-weight: bolder;  
+}
+.card-text:hover{
+    color:#451B8C ;
+   font-size: 20px;
+}
+.card{
+    width: 90%;
+    border-top: 8px solid #F49F1C ;
+}
+.heading h3{
+    color:#451B8C;
+    font-weight: bolder;
+  font-size: 35px;
+
+}
+.heading p{
+    font-weight: bolder;
+}
+/* services */
+.services h4{
+color: #451B8C;
+box-shadow: 2px 2px 2px #F49F1C;
+margin-left: 8%;
+margin-right: 8%;
+margin-top: 2.5%;
+font-weight: bolder;
+
+}
+.services i{
+color:#451B8C;
+float: right;
+font-size: 20px;
+margin-right: 1%;
+}
+/* highlights */
+.highlights{
+    background-color:  rgba(255,255,255,0.75);
+    box-shadow: 2px 2px 2px black;
+}
+.highlights span{
+    color: #451B8C;
+    font-weight: bolder;
+    font-size: 50px;
+}
+.highlights h2{
+    color: black;
+    font-size: 45px;
+}
+.highlights h5{
+    color: #F49F1C;
+}
+.growth{
+    background-color: #F49F1C;
+}
+.growth img{
+    height: 140px;
+    width: 150px;
+    margin-left: 26%;
+}
+.growth h3{
+    color: black;
+    text-align: center;
+}
+.growth h2{
+    color: black;
+    text-align: center;
+}
+
+.growth h4{
+    color: black;
+    text-align: center;
+    
+}
+  .mission h3{
+      color:  #451B8C;
+      margin-left: 10%;
+  }
+  .mission p{
+      color: black;
+      margin-left: 10%;
+  }
+  /* aboutus */
+.aboutus h4{
+   
+      color: #F49F1C;
+      text-align: center;
+      margin-top: 5%;
+  }
+
+.aboutus i{
+    color: #451B8c ;
+    font-size: 50px;
+    margin-left: 30%;
+}
+
+
+
+
+
+
+
+
+
+  
